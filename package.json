@@ -7,7 +7,7 @@
   },
   "name": "eleventy-plugin-wipdeveloper-tools",
   "description": "things I'm tired of copying and pasting between projects...",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": ".eleventy.js",
   "dependencies": {},
   "repository": {
