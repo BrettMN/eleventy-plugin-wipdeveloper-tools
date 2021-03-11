@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "name": "eleventy-plugin-wipdeveloper-tools",
+  "description": "things I'm tired of copying and pasting between projects...",
+  "version": "0.0.1",
+  "main": ".eleventy.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettMN/eleventy-plugin-wipdeveloper-tools.git"
+  },
+  "keywords": [
+    "eleventy",
+    "eleventy-plugin"
+  ],
+  "author": {
+    "name": "Brett M. Nelson",
+    "email": "brett@wipdeveloper.com",
+    "url": "https://wipdeveloper.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrettMN/eleventy-plugin-wipdeveloper-tools/issues"
+  },
+  "homepage": "https://github.com/BrettMN/eleventy-plugin-wipdeveloper-tools#readme"
+}
