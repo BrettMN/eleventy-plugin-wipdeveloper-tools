@@ -3,16 +3,7 @@
 things I'm tired of copying and pasting between projects...
 
 ## Options 
-
-Pass a namespace into options via the `namespace` property.
-
-```js
-const tools = require('eleventy-plugin-wipdeveloper-tools');
-
-module.exports = function ( eleventyConfig, {}) {
-  eleventyConfig.addPlugin(tools, { namespace: 'exampleNamespace' });
-};
-```
+none
 
 ## Filter~~s~~
 
